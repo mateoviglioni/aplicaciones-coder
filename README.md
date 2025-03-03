@@ -1,8 +1,8 @@
-# Ecommerce
+# Proyect
 
 Coderhouse project application development.
 
-## UI
+## App
 
 
 <p align="center">
