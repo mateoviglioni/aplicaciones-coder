@@ -1,6 +1,6 @@
 # Ecommerce
 
-A simple ecommerce app designed using react native.This example was put together by me for enthusiasts and those learning more about javascript and its framework react-native.
+Coderhouse project application development.
 
 ## UI
 
